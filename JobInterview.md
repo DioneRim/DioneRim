@@ -31,19 +31,17 @@ User experience theme:
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-Admin | Mengelola data user | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
-Admin | Mengelola data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
+Admin | Mengelola data pengguna | Bisa update data pengguna dan menghapus data pengguna | ⭐⭐⭐⭐⭐
 Admin | Upload Product | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
 Admin | Edit Product | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
 Admin | Hapus Product | Bisa menghapus product | ⭐⭐⭐⭐⭐
-Admin | Mengelola Sistem Keamanan dan Enkripsi | Bisa menjaga integritas dan kerahasiaan data pelanggan | ⭐⭐⭐⭐⭐
+Admin | Mengelola Sistem Keamanan | Bisa menjaga integritas dan kerahasiaan data pelanggan | ⭐⭐⭐⭐⭐
 Admin | Mengelola Produk | Bisa memastikan katalog selalu terbaru dan sesuai | ⭐⭐⭐⭐⭐
 Admin | Mengelola Stok Produk |  Dapat menghindari penjualan produk yang sudah habis stok | ⭐⭐⭐⭐
 Admin | Mengelola Ulasan Produk | Bisa menjaga kualitas ulasan dan mengatasi masalah jika ada | ⭐⭐⭐
 Admin | Mengelola Pesanan Pelanggan | Bisa memberikan pelayanan yang responsif dan memenuhi kebutuhan pelanggan | ⭐⭐⭐⭐⭐
 Admin | Mengelola Metode Pembayaran | Bisa memberikan beragam opsi pembayaran kepada pelanggan | ⭐⭐⭐⭐
 Admin | Mengelola Pesan dan Notifikasi Pelanggan | Bisa memberikan informasi yang relevan dan penting kepada pelanggan | ⭐⭐⭐⭐⭐
-Admin | Mengelola Integrasi Sosial Media | Bisa mempromosikan produk dan berinteraksi dengan pelanggan melalui media sosial | ⭐⭐⭐⭐
 Admin | Mengelola jasa pengiriman | Bisa memantau kinerja dan hubungan dengan masing-masing mitra pengiriman | ⭐⭐⭐⭐⭐
 Pengguna | Menjelajahi produk obat obatan | Dapat menemukan obat yang sesuai dengan enyakit | ⭐⭐⭐⭐
 Pengguna | Melihat semua product | Mendapatkan banyak pilihan obat  | ⭐⭐⭐⭐
@@ -68,20 +66,20 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-- UI/UX Design : Figma
-- Web Server   : Laragon
+- UI/UX Design : Canva
+- Web Server   : Apache
 - Text Editor  : VS Code
 - Library      : Laravel Jetstream
 - Framework    : Laravel
 - Database     : MySQL
 
-1. **UI/UX Design: Figma**
-   - **Pengertian:** UI (User Interface) Design berkaitan dengan tata letak, visual, dan interaksi elemen-elemen pada antarmuka pengguna. UX (User Experience) Design menekankan pengalaman pengguna secara keseluruhan, termasuk kepuasan, aksesibilitas, dan keterlibatan.
-   - **Peran:** Figma adalah alat desain berbasis web yang memfasilitasi kolaborasi tim dalam membuat dan merancang UI/UX. Desainer menggunakan Figma untuk membuat prototipe, menggambarkan tata letak, dan memvisualisasikan pengalaman pengguna.
+1. **UI/UX Design: Canva**
+   - **Pengertian:** UI (User Interface) adalah Design tampilan produk yang visible atau bisa dilihat oleh mata, lebih fokus pada visualisasi, coloring, dan hal-hal yang berkaitan dengan kreativitas dari interface yang akan digunakan oleh pengguna. UX (User Experience) lebih berfokus pada proses pembuatan produk hingga mampu mendapatkan pengalaman kemudahan dari pengguna
+   - **Peran:** Canva adalah aplikasi desain grafis yang digunakan untuk membuat grafis media sosial, presentasi, poster, dokumen dan konten visual lainnya. Desainer menggunakan Canva untuk membuat prototipe, menggambarkan tata letak, dan memvisualisasikan pengalaman pengguna.
 
-2. **Web Server: Laragon**
-   - **Pengertian:** Web server adalah perangkat lunak yang menyediakan layanan hosting untuk situs web. Laragon khususnya adalah web server lokal yang menyediakan lingkungan pengembangan PHP dengan mudah.
-   - **Peran:** Laragon memungkinkan pengembang untuk membuat dan menguji situs web lokal sebelum diluncurkan secara publik. Ini memfasilitasi pengembangan dan pengujian tanpa ketergantungan pada server eksternal.
+2. **Web Server: Apache**
+   - **Pengertian:** Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data, Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox). 
+   - **Peran:** Apache adalah software web server yang digunakan gratis serta open source memungkinkan user upload di internet dan berfungsi untuk membuat koneksi antara server dan browser milik visitor dan Gmengirim file untuk klien server.
 
 3. **Text Editor: VS Code**
    - **Pengertian:** Text editor adalah perangkat lunak untuk menulis dan mengedit kode. VS Code (Visual Studio Code) adalah text editor yang ringan dan kuat, dikembangkan oleh Microsoft.
