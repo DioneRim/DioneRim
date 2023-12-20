@@ -69,8 +69,8 @@ flowchart TD
 - UI/UX Design : Canva
 - Web Server   : Apache
 - Text Editor  : VS Code
-- Library      : Laravel Jetstream
-- Framework    : Laravel
+- Library      : 
+- Framework    : 
 - Database     : MySQL
 
 1. **UI/UX Design: Canva**
@@ -85,17 +85,17 @@ flowchart TD
    - **Pengertian:** Text editor adalah perangkat lunak untuk menulis dan mengedit kode. VS Code (Visual Studio Code) adalah text editor yang ringan dan kuat, dikembangkan oleh Microsoft.
    - **Peran:** Pengembang menggunakan VS Code untuk menulis, mengedit, dan mengelola kode. Fitur-fitur seperti highlighting sintaksis, saran kode, dan ekstensi membuatnya menjadi pilihan populer di kalangan pengembang.
 
-4. **Library: Laravel Jetstream**
+4. **Library: **
    - **Pengertian:** Library adalah kumpulan modul atau fungsi-fungsi yang dapat digunakan untuk mempercepat pengembangan perangkat lunak. Laravel Jetstream adalah library yang menyediakan fitur-fitur umum untuk aplikasi web, seperti otentikasi pengguna, manajemen sesi, dan panel kontrol.
-   - **Peran:** Laravel Jetstream mempermudah pengembangan aplikasi dengan menyediakan struktur dasar dan fungsionalitas yang umum diperlukan, menghemat waktu dan usaha pengembang.
+   - **Peran:** 
 
-5. **Framework: Laravel**
+5. **Framework: **
    - **Pengertian:** Framework adalah kerangka kerja pengembangan perangkat lunak yang menyediakan aturan, konvensi, dan alat untuk mempercepat pembangunan aplikasi. Laravel adalah framework PHP yang populer untuk pengembangan web.
-   - **Peran:** Laravel menyediakan struktur dan alat untuk membangun aplikasi web secara efisien. Ini termasuk manajemen database, routing, dan fitur-fitur lainnya yang mendukung pengembangan yang bersih dan terstruktur.
+   - **Peran:** 
 
 6. **Database: MySQL**
-   - **Pengertian:** Database adalah penyimpanan struktural untuk data. MySQL adalah sistem manajemen basis data (DBMS) relasional yang banyak digunakan.
-   - **Peran:** MySQL menyimpan dan mengelola data yang digunakan oleh aplikasi web. Ini memungkinkan aplikasi untuk menyimpan, mengambil, dan memanipulasi data secara efisien.
+   - **Pengertian:** Database adalah kumpulan data yang terorganisir, yang umumnya disimpan dan diakses secara elektronik dari suatu sistem komputer.
+   - **Peran:** MySQL sebuah perangkat lunak sistem manajemen basis data SQL atau DBMS yang multialur, multipengguna, dengan sekitar 6 juta instalasi di seluruh dunia.
   
 
 ## 6. Desain User Experience dan User Interface
@@ -127,21 +127,19 @@ https://youtu.be/botXZ6Bc_rA?si=94iAf2bqaf_rZVzi
 Mesin komputasi dan sistem operasi berperan penting dalam produk teknologi informasi. 
 
 1. Mesin Komputasi:
-Mesin komputasi, seperti komputer atau perangkat mobile, adalah perangkat keras yang menjadi dasar bagi produk teknologi informasi. Komponen seperti CPU, RAM, penyimpanan, dan perangkat keras lainnya memungkinkan perangkat tersebut untuk menjalankan perangkat lunak (software) yang merupakan inti dari produk teknologi informasi. Kemampuan dan spesifikasi mesin komputasi akan memengaruhi kinerja dan kemampuan produk tersebut.
+Mesin komputasi adalah  perangkat elektronik yang dirancang untuk menjalankan tugas komputasi yang mencakup perangkat keras (hardware) dan perangkat lunak (software) yang bekerja bersama untuk memproses informasi. Mesin komputasi dapat melakukan operasi aritmetika, penyimpanan data, dan eksekusi perintah berdasarkan program yang dijalankan. 
 
 2. Sistem Operasi:
-Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras, mengatur eksekusi program, dan menyediakan antarmuka antara pengguna dan perangkat keras. Sistem operasi memastikan bahwa aplikasi berjalan dengan lancar, mengatur tugas-tugas, dan menyediakan akses ke perangkat keras seperti layar, keyboard, dan jaringan. Sistem operasi juga mengelola keamanan, manajemen file, dan sejumlah fitur lainnya.
-
-Dalam produk teknologi informasi, sistem operasi memungkinkan aplikasi untuk berjalan dan berinteraksi dengan mesin komputasi. Misalnya, Android atau iOS adalah sistem operasi yang digunakan dalam perangkat mobile, sedangkan Windows atau macOS digunakan dalam komputer desktop. Sistem operasi ini membantu mengatur dan mengoptimalkan penggunaan sumber daya perangkat keras serta menyediakan lingkungan untuk aplikasi.
+Sistem operasi adalah perangkat lunak yang mengelola perangkat keras dan menyediakan layanan-layanan dasar bagi perangkat lunak aplikasi dan bertindak sebagai perantara antara pengguna dan perangkat keras, mengoordinasikan akses ke memori, perangkat input/output, dan fungsi-fungsi sistem lainnya. Sistem Operasi juga memanajemen file, keamanan, dan multitasking, memungkinkan beberapa program berjalan secara bersamaan. Contoh sistem operasi meliputi Windows, Linux, dan Android.
 
 Jadi, mesin komputasi dan sistem operasi adalah fondasi yang sangat penting dalam produk teknologi informasi, memungkinkan pengembangan, instalasi, dan penggunaan berbagai aplikasi dan layanan.
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
 1. **Algoritma:**
-   - **Definisi:** Algoritma adalah urutan instruksi logis yang dirancang untuk menyelesaikan suatu tugas atau masalah tertentu.
-   - **Peran:** Algoritma menjadi dasar dari proses pengembangan perangkat lunak. Menerapkan algoritma yang efisien dapat meningkatkan kinerja, kecepatan, dan efektivitas suatu produk. Algoritma memandu bagaimana suatu tugas dapat dipecahkan secara sistematis.
-
+   - **Definisi:** Algoritma adalah langkah-langkah yang digunakan untuk menyelesaikan suatu masalah dan serangkaian instruksi atau aturan yang didefinisikan dengan jelas untuk menyelesaikan suatu permasalahan atau mencapai tujuan tertentu.
+   - **Peran:** Algoritma berperan sebagai penyelesaian masalah pemrosesan data, meningkatkan kinerja suatu program, membantu komputer mengolah informasi dan menghasilkan keputusan atau rekomendasi.
+   
 2. **Struktur Data:**
    - **Definisi:** Struktur data adalah cara mengatur dan menyimpan data sehingga dapat diakses dan dimanipulasi dengan efisien.
    - **Peran:** Struktur data memengaruhi performa dan efisiensi program. Memilih struktur data yang tepat untuk suatu tugas dapat mempercepat operasi pencarian, penyortiran, dan manipulasi data. Struktur data yang efisien juga membantu dalam pengelolaan memori dan ruang penyimpanan.
