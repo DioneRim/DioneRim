@@ -38,7 +38,6 @@ Admin | Hapus Product | Bisa menghapus product | ⭐⭐⭐⭐⭐
 Admin | Mengelola Sistem Keamanan | Bisa menjaga integritas dan kerahasiaan data pelanggan | ⭐⭐⭐⭐⭐
 Admin | Mengelola Produk | Bisa memastikan katalog selalu terbaru dan sesuai | ⭐⭐⭐⭐⭐
 Admin | Mengelola Stok Produk |  Dapat menghindari penjualan produk yang sudah habis stok | ⭐⭐⭐⭐
-Admin | Mengelola Ulasan Produk | Bisa menjaga kualitas ulasan dan mengatasi masalah jika ada | ⭐⭐⭐
 Admin | Mengelola Pesanan Pelanggan | Bisa memberikan pelayanan yang responsif dan memenuhi kebutuhan pelanggan | ⭐⭐⭐⭐⭐
 Admin | Mengelola Metode Pembayaran | Bisa memberikan beragam opsi pembayaran kepada pelanggan | ⭐⭐⭐⭐
 Admin | Mengelola Pesan dan Notifikasi Pelanggan | Bisa memberikan informasi yang relevan dan penting kepada pelanggan | ⭐⭐⭐⭐⭐
@@ -141,14 +140,14 @@ Jadi, mesin komputasi dan sistem operasi adalah fondasi yang sangat penting dala
    - **Peran:** Algoritma berperan sebagai penyelesaian masalah pemrosesan data, meningkatkan kinerja suatu program, membantu komputer mengolah informasi dan menghasilkan keputusan atau rekomendasi.
    
 2. **Struktur Data:**
-   - **Definisi:** Struktur data adalah cara mengatur dan menyimpan data sehingga dapat diakses dan dimanipulasi dengan efisien.
-   - **Peran:** Struktur data memengaruhi performa dan efisiensi program. Memilih struktur data yang tepat untuk suatu tugas dapat mempercepat operasi pencarian, penyortiran, dan manipulasi data. Struktur data yang efisien juga membantu dalam pengelolaan memori dan ruang penyimpanan.
+   - **Definisi:** Struktur data adalah cara mengorganisasi dan menyimpan data di dalam komputer sehingga dapat diakses dengan efisien dengan melibatkan pemilihan dan implementasi metode penyimpanan yang tepat agar operasi-operasi pada data dapat dilakukan dengan cepat dan efektif.
+   - **Peran:** Struktur data berperan untuk meningkatkan efisiensi operasional, membantu mengoptimalkan penggunaan memori, menyederhanakan proses pemrosesan data, membantu dalam memodelkan masalah secara lebih efektif
 
 3. **Bahasa Pemrograman:**
-   - **Definisi:** Bahasa pemrograman adalah kumpulan aturan dan sintaksis yang digunakan untuk menulis program komputer.
-   - **Peran:** Bahasa pemrograman memungkinkan programmer untuk menyusun algoritma dan menggunakan struktur data dalam bentuk kode yang dapat dijalankan oleh komputer. Pemilihan bahasa pemrograman dapat memengaruhi tingkat abstraksi, efisiensi, dan kemudahan pemeliharaan suatu produk.
+   - **Definisi:** Bahasa pemrograman adalah instruksi yang digunakan untuk menulis program komputer yang memungkinkan programmer mengkomunikasikan perintah kepada komputer.
+   - **Peran:** Bahasa pemrograman memungkinkan programmer menyusun serangkaian instruksi untuk dijalankan oleh komputer, membuat program komputer yang dapat menjalankan tugas tertentu, mengembangankan aplikasi.
 
-Singkatnya, algoritma membimbing logika pemecahan masalah, struktur data menyediakan kerangka kerja penyimpanan dan manipulasi informasi, dan bahasa pemrograman menyediakan sarana untuk mengimplementasikan algoritma dan struktur data ke dalam program yang berfungsi. Keseluruhan, kombinasi ketiganya memainkan peran penting dalam pengembangan produk teknologi informasi yang efisien, cepat, dan dapat diandalkan.
+Singkatnya, algoritma langkah-langkah pemecahan masalah, struktur data untuk menyimpan data didalam komputer dan bahasa pemrograman adalah intruksi yang digunakan programmer berkomunikasi dengan komputer . Keseluruhan, kombinasi ketiganya memainkan peran penting dalam pengembangan produk teknologi informasi yang efisien, cepat, dan dapat diandalkan.
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
