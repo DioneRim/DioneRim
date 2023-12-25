@@ -54,7 +54,7 @@ Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin b
 
 ## 3. Struktur Data
 
-![Uploading Screenshot 2023-12-25 221126.png…]()
+```![Uploading Screenshot 2023-12-25 221126.png…]()
 
 
 ## 4. Arsitektur Sistem
@@ -99,10 +99,10 @@ flowchart TD
   
 
 ## 6. Desain User Experience dan User Interface
+```![dioPharma](https://github.com/DioneRim/DioneRim/assets/144760197/1157742c-4b6c-40f3-a6dc-ec497c839f6a)
 
-Full Disign⬇️⬇️
+```![dioPharma obat](https://github.com/DioneRim/DioneRim/assets/144760197/55399c09-fb4c-4757-8187-2ce199996f31)
 
-https://www.figma.com/file/I6h994USSvunjYdLbXdZq1/FurniCraft?type=design&node-id=0%3A1&mode=design&t=yFSG4xsPHiWSLVXl-1
 
 ## 7. Demonstrasi Video
 
