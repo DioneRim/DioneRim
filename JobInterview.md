@@ -140,25 +140,19 @@ Singkatnya, algoritma langkah-langkah pemecahan masalah, struktur data untuk men
 
 **Proses Pembangunan Teknologi Informasi: Web Development Life Cycle**
 
-**1. Analisis**
-Analisis merupakan tahapan awal di mana kita melakukan evaluasi mendalam terhadap kebutuhan dan tujuan website yang akan dibuat. Identifikasi target pengguna, fungsionalitas, dan fitur yang diperlukan untuk memastikan bahwa proyek memiliki landasan yang kuat.
+**Perencanaan yang Sistematis**: SDLC membantu dalam perencanaan tahapan pengembangan, memastikan sumber daya dan waktu yang cukup dialokasikan untuk setiap langkah, sehingga proyek dapat berjalan dengan efisien.
 
-**2. Desain**
-Setelah analisis, kita memasuki tahap desain. Ini melibatkan pembuatan sketsa konseptual dari website dan kemudian merinci desain menggunakan alat seperti Figma. Desain mencakup tata letak, warna, tipografi, dan elemen visual lainnya untuk memastikan pengalaman pengguna yang menarik dan efektif.
+**Pemahaman Kebutuhan Pengguna**: Melalui tahap analisis kebutuhan, SDLC membantu memahami kebutuhan pengguna dengan baik, memastikan bahwa produk yang dihasilkan sesuai dengan ekspektasi pengguna.
 
-**3. Pengembangan**
-Dalam fase pengembangan, desain diimplementasikan menjadi kode yang berfungsi. Ini melibatkan pemrograman, pengembangan back-end dan front-end, serta integrasi teknologi yang diperlukan. Proses ini menciptakan website yang dapat diakses dan dioperasikan.
+**Pengelolaan Risiko**: SDLC membantu dalam mengidentifikasi dan mengelola risiko potensial, sehingga masalah dapat diatasi sejak awal dan tidak mempengaruhi hasil akhir.
 
-**4. Testing & Review**
-Setelah pengembangan, website melewati tahap pengujian menyeluruh. Ini termasuk pengujian fungsionalitas, kinerja, keamanan, dan kompatibilitas lintas perangkat. Setelah itu, dilakukan review internal untuk memastikan bahwa semua elemen sesuai dengan harapan dan spesifikasi.
+**Kontrol Kualitas**: Dengan tahapan pengujian yang terstruktur, SDLC membantu memastikan kualitas produk, mengurangi kesalahan atau bug yang dapat muncul di tahap akhir.
 
-**5. Implementasi (Deployment)**
-Setelah berhasil melewati pengujian dan review, website siap untuk diunggah (deployed) ke server. Pada tahap ini, website dapat diakses oleh pengguna secara publik. Proses ini memerlukan koordinasi yang baik untuk memastikan implementasi yang lancar.
+**Pemeliharaan dan Pembaruan**: SDLC memungkinkan pemeliharaan yang efisien dan pembaruan produk seiring waktu, menjaga relevansi dan kehandalan produk.
 
-**6. Pemeliharaan**
-Maintenance / tahap pemeliharaan, menjadi kunci dalam pemantauan untuk mendeteksi potensi kerusakan atau masalah kinerja. Pembaruan dan perbaikan dilakukan sesuai kebutuhan, menjaga agar website tetap beroperasi dengan optimal.
+Penggunaan SDLC dengan baik dapat memberikan manfaat yang signifikan dalam mencapai tujuan pengembangan perangkat lunak dan meningkatkan kualitas serta kinerja produk teknologi informasi.
 
-Dengan mengikuti siklus ini, kita dapat memastikan bahwa setiap tahap dari konsepsi hingga pemeliharaan dijalankan secara efektif. Kesinambungan dan perhatian terhadap detail memainkan peran penting dalam memastikan keberhasilan proyek pengembangan web.
+
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
