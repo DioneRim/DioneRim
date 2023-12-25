@@ -1,5 +1,22 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Computational Thinking (Pemikiran Komputasional) adalah suatu cara berpikir sistematis untuk menyelesaikan masalah menggunakan konsep dan metode yang terkait dengan pemrograman dan komputasi. Melibatkan kemampuan untuk merinci masalah menjadi langkah-langkah terpisah dan merancang solusi yang dapat diimplementasikan oleh komputer
+Ada empat pilar utama dalam Computational Thinking:
+
+-Pemecahan Masalah: Proses memecah masalah kompleks menjadi serangkaian submasalah yang lebih kecil dan lebih mudah dikelola. Ini membantu dalam pemahaman yang lebih baik dan memungkinkan penyelesaian secara bertahap.
+
+-Pengenalan Pola: Kemampuan mengenali pola atau tren dalam data. Ini membantu dalam mengidentifikasi solusi yang dapat diterapkan secara luas untuk masalah serupa dan membuat abstraksi dari situasi tertentu.
+
+-Abstraksi: Mengambil inti atau konsep utama dari suatu masalah dan mengabaikan detail yang tidak relevan. Ini membantu dalam menyederhanakan kompleksitas dan fokus pada aspek-aspek kunci dari suatu situasi.
+
+-Pemikiran Algoritmik: Mampu merancang langkah-langkah sistematis dan berurutan untuk menyelesaikan masalah. Ini melibatkan pembuatan algoritma atau langkah-langkah yang dapat diikuti untuk mencapai solusi.
+
+Prinsip-prinsip tersebut bisa diigunakan ke dalam cara berpikir sehari-hari dan pendekatan terhadap penyelesaian masalah. Dan juga tidak hanya berguna dalam konteks pengembangan perangkat lunak atau pemrograman, tetapi juga dalam berbagai bidang kehidupan, seperti ilmu pengetahuan, matematika, bisnis, dan bahkan pengambilan keputusan sehari-hari.
+
+Dengan menggunakan Computational Thinking, seseorang bisa menjadi lebih terampil dalam memecahkan masalah, merancang solusi yang efektif, dan memahami bagaimana teknologi dapat digunakan untuk mendukung proses tersebut. 
+
+
+
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
