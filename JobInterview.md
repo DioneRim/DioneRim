@@ -54,7 +54,7 @@ Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin b
 
 ## 3. Struktur Data
 
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/ERD.png?raw=true)
+
 
 ## 4. Arsitektur Sistem
 
@@ -98,18 +98,6 @@ flowchart TD
   
 
 ## 6. Desain User Experience dan User Interface
-
-Landing Page 
-
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Landing%20Page.png?raw=true)
-
-Details Page
-
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Single%20Page.png?raw=true)
-
-Succsess Page
-
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Success%20Page.png?raw=true)
 
 Full Disign⬇️⬇️
 
