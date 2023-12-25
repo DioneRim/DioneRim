@@ -56,7 +56,6 @@ Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin b
 
 <img width="566" alt="Screenshot 2023-12-25 221126" src="https://github.com/DioneRim/DioneRim/assets/144760197/deccc81c-d8b8-4231-a53d-bb4ceaee6a0c">
 
-
 ## 4. Arsitektur Sistem
 
 ```mermaid
@@ -102,7 +101,6 @@ flowchart TD
 ![dioPharma](https://github.com/DioneRim/DioneRim/assets/144760197/1157742c-4b6c-40f3-a6dc-ec497c839f6a)
 
 ![dioPharma obat](https://github.com/DioneRim/DioneRim/assets/144760197/55399c09-fb4c-4757-8187-2ce199996f31)
-
 
 ## 7. Demonstrasi Video
 
