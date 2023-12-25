@@ -156,6 +156,5 @@ Penggunaan SDLC dengan baik dapat memberikan manfaat yang signifikan dalam menca
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Sebuah database adalah kumpulan data yang tersimpan dalam sistem yang terstruktur, dirancang untuk pengelolaan dan akses data yang efisien. Ini berfungsi sebagai penyimpanan terorganisir yang memungkinkan Anda untuk menyimpan, mengakses, dan mengelola informasi dengan cara yang terstruktur dan mudah diakses."
 
-Sebagai contoh saya akan menjelas kan rancangan database yang saya buat
+Database atau sistem basis data berperan penting dalam produk teknologi informasi. Berikut adalah beberapa peran utama penyimpanan data,pengelolaan data, integritas data,keamanan data, pemulihan data,konsistensi transaksi, dan masih banyak lagi
