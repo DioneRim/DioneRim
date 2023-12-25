@@ -54,6 +54,7 @@ Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin b
 
 ## 3. Struktur Data
 
+![Uploading Screenshot 2023-12-25 221126.png…]()
 
 
 ## 4. Arsitektur Sistem
