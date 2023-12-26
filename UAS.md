@@ -151,6 +151,8 @@ erDiagram
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+![dioPharma obat](https://github.com/DioneRim/DioneRim/assets/144760197/8a9f36c1-f542-44ec-9d77-4d9d85a99c7d)
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -180,6 +182,8 @@ erDiagram
 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![WhatsApp Image 2023-12-26 at 23 17 50 (1)](https://github.com/DioneRim/DioneRim/assets/144760197/e919cc76-bb5f-41b8-96a3-5611256bcc25)
+![WhatsApp Image 2023-12-26 at 23 17 50](https://github.com/DioneRim/DioneRim/assets/144760197/79bff79e-ff4d-43f4-bc94-78485c7d6602)
 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
@@ -189,7 +193,14 @@ erDiagram
 
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+**Jurnal**
+Jurnal adalah sebuah catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi. Jurnal dapat digunakan untuk berbagai tujuan, termasuk untuk mencatat kegiatan sehari-hari, untuk mencatat pemikiran atau ide-ide yang muncul, atau untuk mencatat hasil penelitian atau observasi.
+**Conference**
+Conference atau konferensi adalah suatu pertemuan yang diselenggarakan, terutama mengenai bentuk-bentuk tata, adat atau kebiasaan yang berdasarkan mufakat umum, dua perjanjian antara negara-negara para penguasa pemerintah atau perjanjian internasional mengenai topik tawanan perang dan sebagainya.
+**Artikel**
+Artikel merupakan salah satu jenis bacaan yang terdapat di berbagai media seperti majalah, surat kabar dan media online. Setiap artikel yang diterbitkan memiliki tujuannya masing-masing, sehingga artikel dapat dibagi menjadi beberapa jenis dan memiliki karakteristiknya masing-masing. 
+**Grade Jurnal**
+Jurnal adalah dokumen akademis yang berisi artikel-artikel ilmiah tentang penelitian, ulasan, atau pemikiran dalam suatu bidang tertentu. Penilaian atau "grade" jurnal biasanya mencerminkan tingkat kualitas dan reputasi jurnal tersebut dalam komunitas ilmiah. Jurnal yang lebih terkemuka sering kali memiliki proses peer review yang ketat dan mempublikasikan penelitian yang dianggap lebih berpengaruh atau inovatif.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -214,6 +225,7 @@ erDiagram
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+https://roadmap.sh/software-design-architecture
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
