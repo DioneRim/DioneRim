@@ -58,10 +58,14 @@ Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin b
 
 ## 4. Arsitektur Sistem
 
-```mermaid
-flowchart TD
-    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Laravel] <--> id3[Web Server: Laravel]  
-```
+<img width="555" alt="Screenshot 2023-12-26 220451" src="https://github.com/DioneRim/DioneRim/assets/144760197/ac8b2032-c05a-46e3-bf76-01e3a57066f6">
+
+```flowchart BT 
+  subgraph cloud
+    B[Web Server: Apache] <--> C[Aplikasi Web Backend: NetBeans] 
+    C <--> D[Database: MySQL] 
+```  end
+
 
 ## 5. Teknologi, Library, dan Framework
 
