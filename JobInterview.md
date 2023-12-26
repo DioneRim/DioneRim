@@ -102,9 +102,6 @@ Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin b
 
 ## 7. Demonstrasi Video
 
-Vidio ⬇️⬇️
-
-https://youtu.be/botXZ6Bc_rA?si=94iAf2bqaf_rZVzi
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
