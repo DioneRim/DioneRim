@@ -51,6 +51,44 @@ Ada beberapa jenis mesin komputasi yang telah berkembang seiring waktu, masing-m
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
+erDiagram
+  PENGGUNA {
+    int id_pengguna
+    string username
+    string email
+    string password
+    string nomor_hp
+    string nama_lengkap
+  }
+  PENGGUNA ||--o{ SEARCH : memcari
+  SEARCH {
+    int id_obat
+    int id_kode_obat
+    string isi_dokter
+  }
+  SEARCH ||--o{ OBAT : memilih
+  OBAT {
+    int id_nama_obat
+    int id_per_strip
+    string id_jenis
+    string id_harga
+    string id_stok
+  }
+
+  OBAT ||--o{ TRANSAKSI : pembayaran
+  TRANSAKSI {
+  int id_obat
+  int id_jumlah_obat
+  string id_alamat
+  string id_nomor_hp
+  }
+  PESAN ||--o{ TRANSAKSI : pembelian
+  PENGGUNA  ||--o{ PESAN : berkonsultasi
+  PESAN{
+    string id_dokter
+    int id_nama_lengkap
+    int id_profesi_dokter
+  }
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
