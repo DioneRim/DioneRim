@@ -67,7 +67,7 @@ flowchart TD
 
 - UI/UX Design : Canva
 - Web Server   : Apache
-- Text Editor  : VS Code
+- Text Editor  : NetBeans
 - Library      : 
 - Framework    : 
 - Database     : MySQL
@@ -80,9 +80,9 @@ flowchart TD
    - **Pengertian:** Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data, Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox). 
    - **Peran:** Apache adalah software web server yang digunakan gratis serta open source memungkinkan user upload di internet dan berfungsi untuk membuat koneksi antara server dan browser milik visitor dan Gmengirim file untuk klien server.
 
-3. **Text Editor: VS Code**
+3. **Text Editor: NetBeans**
    - **Pengertian:** Text editor adalah perangkat lunak untuk menulis dan mengedit kode. VS Code (Visual Studio Code) adalah text editor yang ringan dan kuat, dikembangkan oleh Microsoft.
-   - **Peran:** Pengembang menggunakan VS Code untuk menulis, mengedit, dan mengelola kode. Fitur-fitur seperti highlighting sintaksis, saran kode, dan ekstensi membuatnya menjadi pilihan populer di kalangan pengembang.
+   - **Peran:** Pengembang menggunakan netbeans untuk menulis, mengedit, dan mengelola kode. Fitur-fitur seperti highlighting sintaksis, saran kode, dan ekstensi membuatnya menjadi pilihan populer di kalangan pengembang.
 
 4. **Library: **
    - **Pengertian:** Library adalah kumpulan modul atau fungsi-fungsi yang dapat digunakan untuk mempercepat pengembangan perangkat lunak. Laravel Jetstream adalah library yang menyediakan fitur-fitur umum untuk aplikasi web, seperti otentikasi pengguna, manajemen sesi, dan panel kontrol.
