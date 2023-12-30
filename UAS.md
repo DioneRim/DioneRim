@@ -4,22 +4,7 @@ https://dionerim.wordpress.com/2023/12/28/computitional-thinking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-Ada beberapa jenis mesin komputasi yang telah berkembang seiring waktu, masing-masing dengan karakteristik dan tujuan penggunaan yang berbeda.
-
--Komputer Pribadi (PC): Merupakan jenis mesin komputasi yang dirancang untuk digunakan oleh satu orang. Termasuk dalam kategori ini adalah desktop, laptop.
-
--Server: Mesin komputasi yang dirancang untuk menyimpan, mengelola, dan menyediakan akses data atau layanan untuk komputer lain dalam jaringan. 
-
--Superkomputer: Mesin komputasi dengan kemampuan pemrosesan yang sangat tinggi, digunakan untuk menangani tugas-tugas ilmiah atau teknik yang memerlukan perhitungan intensif, seperti simulasi cuaca, penelitian biologi, atau desain mobil.
-
-
--Minikomputer (Minicomputer): Sebuah komputer yang lebih kecil dan lebih terjangkau dibandingkan mainframe, tetapi lebih besar dan lebih kuat daripada komputer pribadi. Dulu banyak digunakan untuk keperluan bisnis dan ilmiah.
-
--Komputer Jaringan (Network Computer): Mesin komputasi yang dirancang untuk mengakses dan menggunakan sumber daya komputasi yang terletak di server melalui jaringan, biasanya menggunakan internet. Umumnya memiliki kemampuan terbatas karena banyak fungsinya bergantung pada server.
-
--Komputer Tablet dan Smartphone: Jenis mesin komputasi yang dirancang dalam bentuk yang ringkas dan portabel. Biasanya menggunakan sentuhan layar sebagai antarmuka pengguna utama. Digunakan untuk berbagai keperluan, termasuk komunikasi, hiburan, dan produktivitas.
-
--Mikrokontroler: Jenis mesin komputasi yang terintegrasi dalam suatu sistem atau perangkat untuk mengendalikan fungsi tertentu. Biasanya digunakan dalam peralatan elektronik, kendaraan, atau perangkat rumah tangga pintar.
+https://dionerim.wordpress.com/2023/12/30/jenis-mesin-komputasi/
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
