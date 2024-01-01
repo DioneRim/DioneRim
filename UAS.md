@@ -186,6 +186,8 @@ Jurnal adalah dokumen akademis yang berisi artikel-artikel ilmiah tentang peneli
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+Saya menonton video presentasi tugas akhir Informatika yang berjudul Rancang Bangun Aplikasi Sistem Pakar Untuk Mendiagnosa Gejala Penyakit COVID-19 Dengan Metode Forward Chaining Berbasis Android
+![Screenshot (135)](https://github.com/DioneRim/DioneRim/assets/144760197/4958f810-0d54-4a53-a0c7-94d5db8508c7)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
