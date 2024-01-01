@@ -70,6 +70,7 @@ erDiagram
 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+![Screenshot (131)](https://github.com/DioneRim/DioneRim/assets/144760197/7a0e68cf-8a92-4aa2-bf8b-f33105a3b42f)
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
