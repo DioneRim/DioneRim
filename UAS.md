@@ -185,6 +185,7 @@ Jurnal adalah dokumen akademis yang berisi artikel-artikel ilmiah tentang peneli
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+https://www.duolingo.com/profile/dionerim?via=share_profile_link
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
