@@ -164,6 +164,10 @@ https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+https://www.kaggle.com/dionerim
+![Screenshot (140)](https://github.com/DioneRim/DioneRim/assets/144760197/e8faf715-1c04-43b8-89d9-3110d83d3b42)
+![Screenshot (141)](https://github.com/DioneRim/DioneRim/assets/144760197/f031a3c9-686d-4cd9-b922-736a5be75c14)
+
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 ![WhatsApp Image 2023-12-26 at 23 17 50 (1)](https://github.com/DioneRim/DioneRim/assets/144760197/e919cc76-bb5f-41b8-96a3-5611256bcc25)
