@@ -61,6 +61,9 @@ erDiagram
     int id_profesi_dokter
   }
 
+  ![Screenshot (132)](https://github.com/DioneRim/DioneRim/assets/144760197/aa18ddf1-4304-482e-af6c-6dc632950af6)
+
+
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
