@@ -71,6 +71,26 @@ https://scratch.mit.edu/projects/945690329
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+public class BubbleSort{
+ public static void main(String[] arg{
+ int[] arr = {7,4,23,9,5,1};
+ BubbleSort(arr);
+ }
+ public static void BubbleSort(int[] arr){
+  for(int i=0; i<arr.length; i++){
+   for(int j=i++; j<arr.length; j++){
+    if(arr[i]>arr[j]){
+     int temp = arr[i];
+     int arr[i] = arr[j];
+     int arr[j] = temp;
+    }
+   }
+   System.out.println(arr[i]);
+  }
+ }
+}
+
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -106,6 +126,7 @@ https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/01/memahami-apa-itu-file-json/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
