@@ -201,6 +201,7 @@ https://www.duolingo.com/profile/dionerim?via=share_profile_link
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/01/peluang-karir-it/
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
