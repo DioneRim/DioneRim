@@ -16,6 +16,7 @@ https://colab.research.google.com/notebooks/intro.ipynb
 
 ## Windows CMD [v] ⭐⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/01/command-prompt/
 
 ## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
