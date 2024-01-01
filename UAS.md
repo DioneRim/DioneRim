@@ -90,6 +90,7 @@ https://scratch.mit.edu/projects/945690329
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
