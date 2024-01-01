@@ -1,4 +1,4 @@
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+![Screenshot (138)](https://github.com/DioneRim/DioneRim/assets/144760197/76f94a0c-cc4f-4be9-8a65-114c140536b5)## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 https://dionerim.wordpress.com/2023/12/28/computitional-thinking/
 
@@ -155,6 +155,11 @@ https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses
 
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+
+(https://huggingface.co/Dione21)
+![Screenshot (136)](https://github.com/DioneRim/DioneRim/assets/144760197/e96cad68-06b1-48d7-85d8-5a867369e142)
+![Screenshot (137)](https://github.com/DioneRim/DioneRim/assets/144760197/7b9afdf7-315d-4e49-bab5-009f280457f3)
+![Screenshot (139)](https://github.com/DioneRim/DioneRim/assets/144760197/9d17e0b8-71af-4657-8fdb-7267cd2f5ca8)
 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
