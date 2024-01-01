@@ -67,6 +67,8 @@ erDiagram
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
+https://scratch.mit.edu/projects/945690329
+
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 
