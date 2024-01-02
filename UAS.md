@@ -333,6 +333,7 @@ https://roadmap.sh/software-design-architecture
 
 ##51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+https://www.linkedin.com/in/dione-rim-b915752a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ##52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
