@@ -345,6 +345,8 @@ Artikel merupakan salah satu jenis bacaan yang terdapat di berbagai media sepert
 Jurnal adalah dokumen akademis yang berisi artikel-artikel ilmiah tentang penelitian, ulasan, atau pemikiran dalam suatu bidang tertentu. Penilaian atau "grade" jurnal biasanya mencerminkan tingkat kualitas dan reputasi jurnal tersebut dalam komunitas ilmiah. Jurnal yang lebih terkemuka sering kali memiliki proses peer review yang ketat dan mempublikasikan penelitian yang dianggap lebih berpengaruh atau inovatif.
 
 ## 42.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+![Screenshot (20)](https://github.com/DioneRim/DioneRim/assets/144760197/0e679461-a343-4069-9c29-6161dbeef25d)
+![Uploading Screenshot (21).png…]()
 
 
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
