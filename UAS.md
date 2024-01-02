@@ -225,6 +225,8 @@ https://dionerim.000webhostapp.com/
 
 
 ## 24.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+![Screenshot (9)](https://github.com/DioneRim/DioneRim/assets/144760197/fd47c3f4-2113-4402-81f7-e8345475d8cf)
+![Screenshot (11)](https://github.com/DioneRim/DioneRim/assets/144760197/434277df-1d4c-4bfc-8168-a69b368ed983)
 
 
 ## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
