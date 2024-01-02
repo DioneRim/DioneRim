@@ -256,6 +256,8 @@ https://wordpress.com/posts/dionerim.wordpress.com
 
 
 ## 32.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+![Screenshot (6)](https://github.com/DioneRim/DioneRim/assets/144760197/ad0ef502-c407-4566-ae48-0fbba1d04047)
+![Screenshot (7)](https://github.com/DioneRim/DioneRim/assets/144760197/9356f575-2832-45a3-8db3-57e190ebaf70)
 
 
 ## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
