@@ -232,6 +232,7 @@ https://www.duolingo.com/profile/dionerim?via=share_profile_link
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
+https://hellotalk.com/u/ok_dionerim
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
