@@ -152,6 +152,8 @@ https://github.com/DioneRim/DioneRim/blob/main/JobInterview.md
 
 ## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/02/dbeaver/
+
 
 ## 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
