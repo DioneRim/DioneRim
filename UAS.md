@@ -105,6 +105,7 @@ public class BubbleSort{
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+https://github.com/DioneRim/DioneRim/blob/main/JobInterview.md
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -121,6 +122,7 @@ https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
+![Screenshot (143)](https://github.com/DioneRim/DioneRim/assets/144760197/e4188c92-3aeb-4cba-899a-9e6ba6b593df)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
