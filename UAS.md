@@ -228,6 +228,8 @@ https://dionerim.000webhostapp.com/
 
 
 ## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+Postman adalah alat yang populer untuk menguji API di lingkunganeasy-to-use grafis. Anda dapat menggunakan Postman untuk mengirim permintaan API ke REST API apa pun, dan untuk menerima tanggapan atas permintaan Anda. Menggunakan Postman adalah cara mudah untuk menguji dan memecahkan masalah panggilan yang Anda lakukan ke Amazon Pinpoint API. 
+![Uploading Screenshot (19).png…]()
 
 
 ## 24.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
