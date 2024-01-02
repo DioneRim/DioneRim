@@ -125,6 +125,45 @@ https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses
 ![Screenshot (143)](https://github.com/DioneRim/DioneRim/assets/144760197/e4188c92-3aeb-4cba-899a-9e6ba6b593df)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+ 
+**1.HTML**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Halaman Web Saya</title>
+</head>
+<body>
+  <h1>Selamat datang di halaman web saya!</h1>
+  <p>Ini adalah paragraf pertama saya.</p>
+  <script src="script.js"></script>
+</body>
+</html>
+
+**2.CSS**
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+**3.JavaSrcript**
+document.addEventListener('DOMContentLoaded', function() {
+  // Logika JavaScript Anda dapat ditempatkan di sini
+  console.log('Halaman web telah dimuat sepenuhnya.');
+});
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
