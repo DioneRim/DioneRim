@@ -1,31 +1,31 @@
-##1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 https://dionerim.wordpress.com/2023/12/28/computitional-thinking/
 
-##2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 https://dionerim.wordpress.com/2023/12/30/jenis-mesin-komputasi/
 
 
-##3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 https://accounts.google.com/SignOutOptions?hl=id&continue=https://colab.research.google.com/notebooks/intro.ipynb&ec=GBRAqQM
 
-##4. Mencoba Console Sistem Operasi
+## 4. Mencoba Console Sistem Operasi
 Saya telah mencoba consolw sistem operasi yang saya coba di CMD
 ![Screenshot (142)](https://github.com/DioneRim/DioneRim/assets/144760197/d84aa606-764d-4e80-85db-9a3fe7e9a861)
 ![Screenshot (143)](https://github.com/DioneRim/DioneRim/assets/144760197/32dac81d-e64a-4b1c-b498-50d2c834af7e)
 ![Screenshot (144)](https://github.com/DioneRim/DioneRim/assets/144760197/90b5fbe8-09f0-4280-a7cf-5c5eb0095ab7)
 
 
-##5.Windows CMD [v] ⭐⭐⭐⭐
+## 5.Windows CMD [v] ⭐⭐⭐⭐
 
 https://dionerim.wordpress.com/2024/01/01/command-prompt/
 
-##6.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+## 6.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 
-##7.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+## 7.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 erDiagram
   PENGGUNA {
@@ -69,11 +69,11 @@ erDiagram
   ![Screenshot (132)](https://github.com/DioneRim/DioneRim/assets/144760197/aa18ddf1-4304-482e-af6c-6dc632950af6)
 
 
-##8.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## 8.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 https://scratch.mit.edu/projects/945690329
 
-##9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 public class BubbleSort{
  public static void main(String[] arg{
@@ -96,7 +96,7 @@ public class BubbleSort{
 
 
 
-##10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+## 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 Menggunakan IDE (Integrated Development Environment) dapat membantu pengembangan perangkat lunak menjadi lebih efisien. Ada banyak IDE yang tersedia, tetapi untuk contoh sederhana, saya akan menunjukkan bagaimana Anda bisa menggunakan IDE Visual Studio Code (VS Code), yang populer dan sering digunakan.
 
