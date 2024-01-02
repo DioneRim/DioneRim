@@ -219,9 +219,12 @@ https://dionerim.wordpress.com/2024/01/01/memahami-apa-itu-file-json/
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 https://dionerim.000webhostapp.com/
+![Screenshot (15)](https://github.com/DioneRim/DioneRim/assets/144760197/9317be9f-a462-47fd-9ffa-5576188301a1)
 
 
 ## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+![Screenshot (16)](https://github.com/DioneRim/DioneRim/assets/144760197/12796217-f25f-4a9a-8fd8-d206d92ca756)
+![Screenshot (17)](https://github.com/DioneRim/DioneRim/assets/144760197/3129c4d6-0b72-445d-aa4c-fa40812d9513)
 
 
 ## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
