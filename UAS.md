@@ -379,6 +379,7 @@ https://dionerim.wordpress.com/2024/01/01/peluang-karir-it/
 https://roadmap.sh/software-design-architecture
 
 ## 50.Eksplorasi Top Github Project yang Diminati ⭐⭐
+![Uploading Screenshot (22).png…]()
 
 
 ## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
