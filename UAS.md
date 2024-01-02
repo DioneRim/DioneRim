@@ -147,6 +147,7 @@ Anda dapat merekam tindakan Anda menggunakan software perekam layar, seperti OBS
 https://github.com/DioneRim/DioneRim/blob/main/JobInterview.md
 
 ## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+![Screenshot (12)](https://github.com/DioneRim/DioneRim/assets/144760197/b69e5871-ef6c-4b8b-9d1f-5240802332c5)
 
 
 ## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
