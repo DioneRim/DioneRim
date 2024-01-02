@@ -232,6 +232,7 @@ https://dionerim.000webhostapp.com/
 
 ## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://wordpress.com/posts/dionerim.wordpress.com
 
 ## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
