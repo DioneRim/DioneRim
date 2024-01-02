@@ -229,6 +229,7 @@ https://dionerim.000webhostapp.com/
 
 ## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
+https://dionerim.wordpress.com/2024/01/02/amazon-web-services/
 
 ## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
