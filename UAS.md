@@ -138,33 +138,33 @@ Mendemonstrasikan:
 
 Anda dapat merekam tindakan Anda menggunakan software perekam layar, seperti OBS Studio, dan membagikannya sebagai demonstrasi.
 
-##11.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 11.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ![Screenshot (131)](https://github.com/DioneRim/DioneRim/assets/144760197/7a0e68cf-8a92-4aa2-bf8b-f33105a3b42f)
 
 
-##12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 https://github.com/DioneRim/DioneRim/blob/main/JobInterview.md
 
-##13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 
-##14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 
-##15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
 https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
-##16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 https://dionerim.wordpress.com/2024/01/02/uniform-resource-locator-url/
 
-##17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 ![Screenshot (143)](https://github.com/DioneRim/DioneRim/assets/144760197/e4188c92-3aeb-4cba-899a-9e6ba6b593df)
 
-##18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
  
 **1.HTML**
 <!DOCTYPE html>
@@ -206,63 +206,63 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-##19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 
-##20.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 20.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 https://dionerim.wordpress.com/2024/01/01/memahami-apa-itu-file-json/
 
-##21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 https://dionerim.000webhostapp.com/
 
 
-##22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 
-##23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 
-##24.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 24.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 
-##25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
 
-##26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 
-##27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 
-##28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 ![dioPharma obat](https://github.com/DioneRim/DioneRim/assets/144760197/8a9f36c1-f542-44ec-9d77-4d9d85a99c7d)
 
 
-##29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 
-##30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 
-##31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 
-##32.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 32.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 
-##33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 
-##34.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 34.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 
-##35.Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 35.Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 
-##36.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 36.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 (https://huggingface.co/Dione21)
 ![Screenshot (136)](https://github.com/DioneRim/DioneRim/assets/144760197/e96cad68-06b1-48d7-85d8-5a867369e142)
@@ -270,25 +270,25 @@ https://dionerim.000webhostapp.com/
 ![Screenshot (139)](https://github.com/DioneRim/DioneRim/assets/144760197/9d17e0b8-71af-4657-8fdb-7267cd2f5ca8)
 
 
-##37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 https://www.kaggle.com/dionerim
 ![Screenshot (140)](https://github.com/DioneRim/DioneRim/assets/144760197/e8faf715-1c04-43b8-89d9-3110d83d3b42)
 ![Screenshot (141)](https://github.com/DioneRim/DioneRim/assets/144760197/f031a3c9-686d-4cd9-b922-736a5be75c14)
 
 
-##38.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 38.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 ![WhatsApp Image 2023-12-26 at 23 17 50 (1)](https://github.com/DioneRim/DioneRim/assets/144760197/e919cc76-bb5f-41b8-96a3-5611256bcc25)
 ![WhatsApp Image 2023-12-26 at 23 17 50](https://github.com/DioneRim/DioneRim/assets/144760197/79bff79e-ff4d-43f4-bc94-78485c7d6602)
 
 
-##39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 
-##40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 
-##41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 **Jurnal**
 Jurnal adalah sebuah catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi. Jurnal dapat digunakan untuk berbagai tujuan, termasuk untuk mencatat kegiatan sehari-hari, untuk mencatat pemikiran atau ide-ide yang muncul, atau untuk mencatat hasil penelitian atau observasi.
 **Conference**
@@ -298,48 +298,48 @@ Artikel merupakan salah satu jenis bacaan yang terdapat di berbagai media sepert
 **Grade Jurnal**
 Jurnal adalah dokumen akademis yang berisi artikel-artikel ilmiah tentang penelitian, ulasan, atau pemikiran dalam suatu bidang tertentu. Penilaian atau "grade" jurnal biasanya mencerminkan tingkat kualitas dan reputasi jurnal tersebut dalam komunitas ilmiah. Jurnal yang lebih terkemuka sering kali memiliki proses peer review yang ketat dan mempublikasikan penelitian yang dianggap lebih berpengaruh atau inovatif.
 
-##42.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 42.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 
-##43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 Saya menonton video presentasi tugas akhir Informatika yang berjudul Rancang Bangun Aplikasi Sistem Pakar Untuk Mendiagnosa Gejala Penyakit COVID-19 Dengan Metode Forward Chaining Berbasis Android
 ![Screenshot (135)](https://github.com/DioneRim/DioneRim/assets/144760197/4958f810-0d54-4a53-a0c7-94d5db8508c7)
 
-##44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 
-##45.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## 45.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 https://www.duolingo.com/profile/dionerim?via=share_profile_link
 
-##46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
 https://hellotalk.com/u/ok_dionerim
 
-##47.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 47.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 https://dionerim.wordpress.com/2024/01/01/peluang-karir-it/
 
-##48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 
-##49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 https://roadmap.sh/software-design-architecture
 
-##50.Eksplorasi Top Github Project yang Diminati ⭐⭐
+## 50.Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 
-##51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 https://www.linkedin.com/in/dione-rim-b915752a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-##52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
  https://github.com/DioneRim
 
-##53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
-##54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
