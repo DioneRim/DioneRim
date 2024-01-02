@@ -250,6 +250,9 @@ https://wordpress.com/posts/dionerim.wordpress.com
 
 
 ## 31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+![Screenshot (3)](https://github.com/DioneRim/DioneRim/assets/144760197/30e6da61-4982-4cf2-8a7f-8090e362fe9e)
+![Screenshot (4)](https://github.com/DioneRim/DioneRim/assets/144760197/3b14f6ac-ed41-4ccc-9b83-970d26c7b1ae)
+![Screenshot (5)](https://github.com/DioneRim/DioneRim/assets/144760197/046107c0-6dbe-424c-91a6-95b49117b586)
 
 
 ## 32.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
