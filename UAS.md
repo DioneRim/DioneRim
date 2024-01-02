@@ -333,6 +333,7 @@ https://hellotalk.com/u/ok_dionerim
 https://dionerim.wordpress.com/2024/01/01/peluang-karir-it/
 
 ## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Screenshot (14)](https://github.com/DioneRim/DioneRim/assets/144760197/6532ab09-b02c-41bf-97a1-1d74be1f6642)
 
 
 ## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
