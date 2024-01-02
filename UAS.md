@@ -9,6 +9,7 @@ https://dionerim.wordpress.com/2023/12/30/jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+https://accounts.google.com/SignOutOptions?hl=id&continue=https://colab.research.google.com/notebooks/intro.ipynb&ec=GBRAqQM
 
 
 ## Mencoba Console Sistem Operasi
