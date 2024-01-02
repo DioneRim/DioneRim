@@ -11,8 +11,12 @@ https://dionerim.wordpress.com/2023/12/30/jenis-mesin-komputasi/
 
 https://accounts.google.com/SignOutOptions?hl=id&continue=https://colab.research.google.com/notebooks/intro.ipynb&ec=GBRAqQM
 
-
 ## Mencoba Console Sistem Operasi
+Saya telah mencoba consolw sistem operasi yang saya coba di CMD
+![Screenshot (142)](https://github.com/DioneRim/DioneRim/assets/144760197/d84aa606-764d-4e80-85db-9a3fe7e9a861)
+![Screenshot (143)](https://github.com/DioneRim/DioneRim/assets/144760197/32dac81d-e64a-4b1c-b498-50d2c834af7e)
+![Screenshot (144)](https://github.com/DioneRim/DioneRim/assets/144760197/90b5fbe8-09f0-4280-a7cf-5c5eb0095ab7)
+
 
 ## Windows CMD [v] ⭐⭐⭐⭐
 
