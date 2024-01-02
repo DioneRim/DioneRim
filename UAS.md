@@ -344,3 +344,5 @@ https://www.linkedin.com/in/dione-rim-b915752a7?utm_source=share&utm_campaign=sh
 
 
 ## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+https://dionerim.wordpress.com/2024/01/02/buku-bertema-informatika/
