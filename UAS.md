@@ -269,7 +269,7 @@ https://wordpress.com/posts/dionerim.wordpress.com
 
 
 ## 34.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
+Data visualization adalah proses penyajian data dengan cara yang menarik dan mudah dipahami. Ada beberapa rekomendasi tools data visual 1. Google Data Studio 2. Tableau 3. Data Wrapper 4. Power BI 5. FineReport 6. Plotly 7. Keylines. Ada begitu banyak variasi alat visualisasi yang tersedia bagi para desainer sehingga sulit memutuskan mana yang akan digunakan. Memilih alat yang paling canggih yang tersedia tidak selalu merupakan ide terbaik: Kurva pembelajaran bisa jadi sulit, membutuhkan lebih banyak sumber daya untuk memulai dan menjalankannya, sementara alat yang lebih sederhana mungkin dapat menciptakan apa yang dibutuhkan dengan tepat dalam waktu singkat. Namun perlu diingat bahwa alat ini hanyalah bagian dari persamaan dalam membuat visualisasi data; desainer juga perlu mempertimbangkan apa lagi yang diperlukan untuk membuat visualisasi data yang bagus.
 
 ## 35.Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
