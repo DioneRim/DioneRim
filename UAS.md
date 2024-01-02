@@ -98,6 +98,45 @@ public class BubbleSort{
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+Menggunakan IDE (Integrated Development Environment) dapat membantu pengembangan perangkat lunak menjadi lebih efisien. Ada banyak IDE yang tersedia, tetapi untuk contoh sederhana, saya akan menunjukkan bagaimana Anda bisa menggunakan IDE Visual Studio Code (VS Code), yang populer dan sering digunakan.
+
+Langkah-langkah Dasar:
+Instalasi:
+
+Kunjungi situs web resmi VS Code.
+Unduh dan instal VS Code sesuai dengan sistem operasi Anda.
+Mulai Proyek Baru:
+
+Buka VS Code.
+Pilih "File" > "New File" untuk membuat file baru.
+Simpan file dengan ekstensi .py untuk Python, misalnya main.py.
+Menulis Kode:
+
+Dalam file main.py, ketik kode Python sederhana, seperti:
+python
+Copy code
+print("Hello, World!")
+Simpan perubahan dengan menekan Ctrl + S (atau Cmd + S di macOS).
+Menjalankan Kode:
+
+Buka terminal di dalam VS Code dengan menekan Ctrl + ~.
+Jalankan kode Python dengan perintah:
+bash
+Copy code
+python main.py
+Anda akan melihat output "Hello, World!" di terminal.
+Fitur Tambahan:
+
+VS Code memiliki banyak ekstensi yang dapat membantu Anda seperti pengenal kode, linter, debugger, dan banyak lagi. Anda dapat menginstal ekstensi sesuai kebutuhan Anda melalui "Extensions" view di VS Code.
+Mendeteksi Kesalahan:
+
+Jika ada kesalahan dalam kode Anda, VS Code akan menyoroti dengan warna merah atau mengeluarkan pesan kesalahan di terminal.
+Penyimpanan dan Versi Kontrol:
+
+Anda dapat menginisialisasi repositori git di proyek Anda dan menggunakan semua fitur kontrol versi yang tersedia di VS Code.
+Mendemonstrasikan:
+
+Anda dapat merekam tindakan Anda menggunakan software perekam layar, seperti OBS Studio, dan membagikannya sebagai demonstrasi.
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ![Screenshot (131)](https://github.com/DioneRim/DioneRim/assets/144760197/7a0e68cf-8a92-4aa2-bf8b-f33105a3b42f)
