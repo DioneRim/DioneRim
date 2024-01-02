@@ -158,6 +158,7 @@ https://dionerim.wordpress.com/2024/01/01/penggunaan-web-browser-untuk-mengakses
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+https://dionerim.wordpress.com/2024/01/02/uniform-resource-locator-url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
