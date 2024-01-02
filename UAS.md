@@ -309,6 +309,7 @@ Saya menonton video presentasi tugas akhir Informatika yang berjudul Rancang Ban
 
 ## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/02/profesi-informatika/
 
 ## 45.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
