@@ -262,6 +262,7 @@ https://www.canva.com/design/DAFu9YDfS9c/8DQ9rAq-_hN8ScSneGhEJQ/view?utm_content
 
 
 ## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+![Screenshot (29)](https://github.com/DioneRim/DioneRim/assets/144760197/cec3e5ec-33c6-450f-9b57-7e6bc01e0301)
 
 
 ## 31.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
