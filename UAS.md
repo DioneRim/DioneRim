@@ -23,6 +23,8 @@ Saya telah mencoba consolw sistem operasi yang saya coba di CMD
 https://dionerim.wordpress.com/2024/01/01/command-prompt/
 
 ## 6.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![Screenshot (23)](https://github.com/DioneRim/DioneRim/assets/144760197/9fa2d778-0ba4-4f3e-8599-410332e388c9)
+![Screenshot (24)](https://github.com/DioneRim/DioneRim/assets/144760197/41ed9a0c-7ad3-42bf-9c18-5127704ee654)
 
 
 ## 7.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
@@ -346,7 +348,8 @@ Jurnal adalah dokumen akademis yang berisi artikel-artikel ilmiah tentang peneli
 
 ## 42.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 ![Screenshot (20)](https://github.com/DioneRim/DioneRim/assets/144760197/0e679461-a343-4069-9c29-6161dbeef25d)
-![Uploading Screenshot (21).png…]()
+![Screenshot (21)](https://github.com/DioneRim/DioneRim/assets/144760197/b03fd3e0-24ea-4a9f-848b-52ba12220563)
+
 
 
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
@@ -379,8 +382,7 @@ https://dionerim.wordpress.com/2024/01/01/peluang-karir-it/
 https://roadmap.sh/software-design-architecture
 
 ## 50.Eksplorasi Top Github Project yang Diminati ⭐⭐
-![Uploading Screenshot (22).png…]()
-
+![Screenshot (22)](https://github.com/DioneRim/DioneRim/assets/144760197/751b8a76-0084-4fe0-bb27-094c6fd73d74)
 
 ## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
