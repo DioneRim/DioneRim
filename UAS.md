@@ -213,6 +213,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
+https://dionerim.wordpress.com/2024/01/03/penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 ## 20.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
