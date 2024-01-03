@@ -257,6 +257,8 @@ https://www.canva.com/design/DAFu9YDfS9c/8DQ9rAq-_hN8ScSneGhEJQ/view?utm_content
 
 
 ## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+![Screenshot (27)](https://github.com/DioneRim/DioneRim/assets/144760197/8e6afb08-78fd-46d1-b993-0e69e5699427)
+![Screenshot (28)](https://github.com/DioneRim/DioneRim/assets/144760197/4aed86a3-5a19-4ecf-956d-5bffea9a2060)
 
 
 ## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
