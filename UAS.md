@@ -246,7 +246,7 @@ https://dionerim.wordpress.com/2024/01/02/amazon-web-services/
 https://wordpress.com/posts/dionerim.wordpress.com
 
 ## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+https://www.canva.com/design/DAFu9YDfS9c/8DQ9rAq-_hN8ScSneGhEJQ/view?utm_content=DAFu9YDfS9c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
