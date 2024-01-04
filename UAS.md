@@ -338,6 +338,7 @@ https://www.kaggle.com/dionerim
 
 
 ## 39.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+![Screenshot (34)](https://github.com/DioneRim/DioneRim/assets/144760197/2455ba42-3c0c-4c88-8296-de1425f789f2)
 
 
 ## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
