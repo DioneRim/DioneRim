@@ -277,6 +277,9 @@ https://www.canva.com/design/DAFu9YDfS9c/8DQ9rAq-_hN8ScSneGhEJQ/view?utm_content
 
 
 ## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+![Screenshot (31)](https://github.com/DioneRim/DioneRim/assets/144760197/5f2bec28-7e34-4707-844a-a6e4933a9d4a)
+![Screenshot (32)](https://github.com/DioneRim/DioneRim/assets/144760197/14ab2205-f87f-43ea-bff2-af9eb1ea0bb9)
+![Screenshot (33)](https://github.com/DioneRim/DioneRim/assets/144760197/01d897c8-553a-47d5-9013-df2b39c0dc6e)
 
 
 ## 34.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
