@@ -343,6 +343,9 @@ https://www.kaggle.com/dionerim
 
 ## 40.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+![WhatsApp Image 2024-01-04 at 17 47 04_6d5cf350](https://github.com/DioneRim/DioneRim/assets/144760197/e1f6aeab-1b5f-46f7-aa79-a574e170431f)
+![WhatsApp Image 2024-01-04 at 17 47 05_28b734e4](https://github.com/DioneRim/DioneRim/assets/144760197/bb597713-5d3f-4e0f-b15e-822fb0800354)
+
 
 ## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 **Jurnal**
@@ -401,6 +404,9 @@ https://www.linkedin.com/in/dione-rim-b915752a7?utm_source=share&utm_campaign=sh
  https://github.com/DioneRim
 
 ## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+
+![WhatsApp Image 2024-01-04 at 17 47 41_183e00be](https://github.com/DioneRim/DioneRim/assets/144760197/b01bce6b-0754-4e21-b856-2835d7d67f03)
+![WhatsApp Image 2024-01-04 at 17 47 41_334547c7](https://github.com/DioneRim/DioneRim/assets/144760197/67fe990d-28c6-480b-9c1f-afb48a2c7aaa)
 
 
 ## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
