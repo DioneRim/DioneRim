@@ -405,6 +405,7 @@ https://www.linkedin.com/in/dione-rim-b915752a7?utm_source=share&utm_campaign=sh
 
 ## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+Saya mengikiti forum bernama bincang coding yang biasanya diadakan satu bulan seklai
 ![WhatsApp Image 2024-01-04 at 17 47 41_183e00be](https://github.com/DioneRim/DioneRim/assets/144760197/b01bce6b-0754-4e21-b856-2835d7d67f03)
 ![WhatsApp Image 2024-01-04 at 17 47 41_334547c7](https://github.com/DioneRim/DioneRim/assets/144760197/67fe990d-28c6-480b-9c1f-afb48a2c7aaa)
 
